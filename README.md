@@ -1,4 +1,4 @@
-# 🎨 SIMARA - Sistem Informasi Manajemen Aruna Batik Nusantara
+# SIMARA - Sistem Informasi Manajemen Aruna Batik Nusantara
 
 <p align="center">
   <img src="public/asset/img/logo_batik.png" alt="Logo Aruna Batik Nusantara" width="160" style="border-radius: 15px;">
