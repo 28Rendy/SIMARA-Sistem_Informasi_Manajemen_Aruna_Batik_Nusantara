@@ -235,6 +235,17 @@ Simara_Batik/
 
 <img width="1920" height="5722" alt="Aruna Batik Nusantara - Beranda - Keanggunan Mahakarya Batik Tulis Nusantara" src="https://github.com/user-attachments/assets/6eb3db99-ea53-4794-a442-5995bd93f156" />
 
+<h1 align="center">Login-SIMARA</h1>
+
+<img width="946" height="405" alt="SIMARA - Login" src="https://github.com/user-attachments/assets/7fa7762a-1490-4c71-9b7b-19a92f3ec517" />
+
+<h1 align="center">BackEnd Admin-SIMARA</h1>
+
+<img width="1920" height="1414" alt="Backend Simara admin - Dashboard" src="https://github.com/user-attachments/assets/f187c4db-a8f5-4afc-8dd2-3e88332dae70" />
+
+<h1 align="center">BackEnd Pelanggan-SIMARA</h1>
+
+<img width="1920" height="878" alt="Backend Pelanggan - Dashboard Pelanggan - Aruna Batik Nusantara" src="https://github.com/user-attachments/assets/e9c01451-fafc-41c3-a8c4-b0aac4c2b747" />
 
 ## 📄 Lisensi
 Proyek **SIMARA** ini dikembangkan untuk keperluan akademik, portofolio sumber terbuka (*open-source*), dan operasional UMKM **Aruna Batik Nusantara (Tegal, Jawa Tengah)**.
