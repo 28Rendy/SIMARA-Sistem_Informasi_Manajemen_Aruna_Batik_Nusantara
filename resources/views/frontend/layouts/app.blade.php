@@ -370,7 +370,7 @@
                     $logoPath = \App\Models\SiteSetting::getSetting('logo');
                 @endphp
                 @if ($logoPath && file_exists(public_path($logoPath)))
-                    <img src="{{ asset($logoPath) }}" alt="Logo" style="max-height: 36px;" class="me-2">
+                    <img src="{{ asset($logoPath) }}" alt="Logo" style="max-height: 66px;" class="me-2">
                 @else
                     <i class="fas fa-gem text-warning fs-3 me-2"></i>
                 @endif
